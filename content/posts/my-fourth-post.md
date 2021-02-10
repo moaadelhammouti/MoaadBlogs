@@ -1,10 +1,8 @@
 ---
-title: "My Fourth Post"
+title: "STARTING WITH REACT"
 date: 2021-02-10T11:06:54+01:00
 draft: true
 ---
-
-STARTING WITH REACT:
 
 There are two primary ways to style react components
 
