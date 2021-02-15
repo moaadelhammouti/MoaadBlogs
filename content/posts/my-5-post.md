@@ -16,4 +16,4 @@ It is one of the common ways of rendering JSX expressions to the screen.
 ReactDOM.render() carries two argument. The first is the JSX expression which in this case in the above code is <h1>Hello world</h1> while the second argument document.getElementById(‘app’) is the element where the first argument is appended on.
 Allow me to explain; we’ve learned the first argument makes the JSX expression render on the screen. But where on the screen should the first argument appear. It is appended in the element selected in the second argument; in this case <h1>Hello world</h1> appends in the element selected from document.getElementById(‘app”).
 
-so we can say that the role of React is for creating elements and the role of ReactDOM is take that elements and put them on the page
+so we can say that the role of React is for creating elements and the role of ReactDOM is take that elements and put them on the page.
